@@ -12,3 +12,5 @@ with open(file_path, 'r') as file:
         else:
             pass
     print(total_words)
+
+#You can also use python's inbuilt function count()
